@@ -356,29 +356,29 @@ button {
     border-radius: 100%;
 }
 
-.health_section {
+.aboutus_section {
     width: 98%;
     float: left;
     padding-bottom: 60px;
 }
 
-.health_taital {
+.aboutus_taital {
     width: 100%;
     float: left;
     font-size: 40px;
-    color: #252525;
+    color: #BBCFFF;
     font-weight: bold;
 }
 
-.health_text {
+.aboutus_text {
     width: 100%;
     float: left;
     font-size: 16px;
-    color: #252525;
+    color: #192965;
     margin: 0px;
 }
 
-.health_section_2 {
+.aboutus_section_2 {
     width: 100%;
     float: left;
 }
