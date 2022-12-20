@@ -68,7 +68,7 @@ header, .content :where(i, p, span){
 .features ul{
   display: flex;
 }
-.features ul li{
+.features .b11 .b12{
   margin: 0 5px;
   height: 47px;
   width: 47px;
@@ -85,7 +85,7 @@ header, .content :where(i, p, span){
 .features ul li:first-child{
   margin-left: 0;
 }
-ul li:is(:hover, .active){
+.b11 .b12:is(:hover, .active){
   color: #fff;
   background: #5372F0;
 }
