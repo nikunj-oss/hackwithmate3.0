@@ -865,10 +865,10 @@ button {
 .footer_section {
     width: 100%;
     float: left;
-    background-color: #252525;
+    background-color: #fcd3d1;
     height: auto;
     padding-bottom: 50px;
-    box-shadow: 0px 24px 19px -1px #222223;
+    box-shadow: 0px 24px 19px -1px black;
     position: relative;
 }
 
@@ -882,7 +882,7 @@ button {
     width: 100%;
     float: left;
     font-size: 24px;
-    color: #ffffff;
+    color: black;
     padding-bottom: 30px;
 }
 
@@ -890,7 +890,7 @@ button {
     width: 100%;
     float: left;
     font-size: 16px;
-    color: #d6d6d6;
+    color: black;
     padding-bottom: 10px;
 }
 
@@ -900,7 +900,7 @@ button {
 
 .hiphop_text_1 {
     width: 90%;
-    color: #d6d6d6;
+    color: black;
     font-size: 16px;
     margin-left: 0px;
 }
@@ -922,7 +922,7 @@ button {
     width: 100%;
     float: left;
     font-size: 18px;
-    color: #ffffff;
+    color: black;
     background-color: transparent;
     padding: 7px 10px;
     margin-top: 10px;
