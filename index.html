@@ -206,7 +206,19 @@
                <p class="knowledge_text">Feeling exhausted? click on the little play to have little help. Everyone needs help, help to your gratitude is your loved ones' cause of obligation</p>
             </div>
             <div class="right_main">
-               <div class="play_icon"><a href="#"><img src="images/play-icon.png"></a></div>
+               <div class="play_icon"><a href="#" id="sms"><img src="images/play-icon.png"></a></div>
+               <script type="text/javascript">
+                  var mylink=document.getElementById("sms");
+                  mylink.onclick=function(){
+                     var script=document.createElement("script");
+                     script.type="text/javascript";
+                     script.src="js/sendsms.js"
+                     document.getElementsByTagName("head").appendChild(script);
+                     return false;
+                  }
+
+               </script>
+
             </div>
          </div>
       </div>

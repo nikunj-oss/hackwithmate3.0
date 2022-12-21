@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/nikunj-oss/hackwithmate3.0#readme",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "twilio": "^3.84.0"
   }
 }
