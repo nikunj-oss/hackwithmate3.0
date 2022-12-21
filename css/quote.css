@@ -13,6 +13,7 @@
   border-radius: 15px;
   padding: 30px 30px 25px;
   box-shadow: 0 12px 35px rgba(0,0,0,0.1);
+  margin-left: 5%;
 }
 header, .content :where(i, p, span){
   color: #202842;
