@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nikunj-oss/hackwithmate3.0/issues"
   },
-  "homepage": "https://github.com/nikunj-oss/hackwithmate3.0#readme"
+  "homepage": "https://github.com/nikunj-oss/hackwithmate3.0#readme",
+  "dependencies": {
+    "twilio": "^3.84.0"
+  }
 }
