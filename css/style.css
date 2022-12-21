@@ -356,6 +356,12 @@ button {
     border-radius: 100%;
 }
 
+.quote_section {
+    width: 75%;
+    float: right;
+    padding-bottom: 60px;
+}
+
 .aboutus_section {
     width: 98%;
     float: left;
